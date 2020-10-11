@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Ricky Wilhelmson 
+tagline:             ''
+description:         ''
+url:                 http://rickywilhelmson.de
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              R.W.
+  url:               http://rickywilhelmson.de
+  email:             nothing@rightn.ow
+
+# Custom vars
+version:             1.0.0
