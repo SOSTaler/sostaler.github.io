@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 'Twitter Profil'
+title: 'Hier ist es ja so twitterich ...'
 ---
 
 
-## Hier ist es ja so twitterich ...
 
 [twitter.com/rickywilhelmson](https://twitter.com/rickywilhelmson)
