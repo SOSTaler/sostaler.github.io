@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uber den Autor
+title: Über den Autor
 ---
 
 
