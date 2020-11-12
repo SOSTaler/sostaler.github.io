@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'Der Hayabusa Effekt (Teil 1/3)'
-subtitle: 'Von Ricky Wilhelmson'
 ---
 Lesezeit: 5 Minuten
 <br><br>
