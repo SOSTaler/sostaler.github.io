@@ -3,7 +3,7 @@ layout: post
 title: 'Der Hayabusa Effekt (Teil 1/3)'
 date: 2020-11-12 00:30:00
 author: 'Ricky Wilhelmson'
-image: /pic/Asteroids-Sun-400x100.png
+image: '/pic/Asteroids-Sun-400x100.png'
 summary: 'summary text for this post should go here'
 ---
 Autor: Ricky Wilhelmson<br>
