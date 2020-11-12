@@ -7,16 +7,17 @@ permalink:           pretty
 # Setup
 title:               Ricky Wilhelmson 
 tagline:             ''
-description:         ''
+description:         'Ricky Wilhelmson Site'
 url:                 http://rickywilhelmson.de
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              R.W.
+  name:              Ricky Wilhelmson
   url:               http://rickywilhelmson.de
   email:             nothing@rightn.ow
+  twitter_username:  rickywilhelmson
 
 # Custom vars
 version:             1.0.0
