@@ -13,7 +13,7 @@ baseurl:             ''
 paginate:            5
 
 # About/contact
-author:
+author:              Ricky Wilhelmson
   name:              Ricky Wilhelmson
   url:               http://rickywilhelmson.de
   email:             nothing@rightn.ow
