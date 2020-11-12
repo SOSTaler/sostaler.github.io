@@ -3,6 +3,7 @@ layout: post
 title: 'Der Hayabusa Effekt (Teil 2/3)'
 date: 2020-11-12 00:20:00
 ---
+Autor: Ricky Wilhelmson<br>
 Lesezeit: 5 Minuten
 <br><br>
 --- Die Sonde<br>
