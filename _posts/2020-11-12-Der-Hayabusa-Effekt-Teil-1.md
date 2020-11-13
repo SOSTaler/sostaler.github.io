@@ -26,7 +26,7 @@ Der Geheimdienst-Koordinator setzte zu einer Erwiderung an, aber das Staatsoberh
 „Eine, wenn ich mich richtig erinnere, um das fünfzehnfache erhöhte Zahl an Zwillingsgeburten! Eine Größenordnung also, die sich nicht, einfach so, durch den Einsatz irgendeiner neuen Art der Fruchtbarkeitsbehandlung weg erklären lässt.“<br>
 „Dann haben sie, wenn ich mich richtig erinnere, auch noch darauf hin-gewiesen, dass es im selben Zeitraum zu ähnlichen Rekorden bei Raubüberfällen, Sportverletzungen, häuslicher Gewalt, Autounfällen auf Landstraßen, Sexualverkehr in der Öffentlichkeit und … und ...“<br>
 „Mundraub“, sagte der gleiche Berater.<br>
-„Richtig … Mundraub. Diebstähle von Nahrungsmitteln mit einem Wert unterhalb von 20 Euro. Dass es also bei all diesen Sachen plötzlich zu Rekorden gekommen ist. Also die Leute in meinem Land verrückt spielen.“<br>
+„Richtig … Mundraub. Diebstähle von Nahrungsmitteln mit einem Wert unterhalb von 20 Dollar. Dass es also bei all diesen Dingen plötzlich zu Rekorden gekommen ist. Also die Leute in meinem Land verrückt spielen.“<br>
 Niemand sagte etwas.<br>
 „Damit sind sie doch zu mir gekommen? Das ist doch richtig?“<br>
 Niemand widersprach.<br>
