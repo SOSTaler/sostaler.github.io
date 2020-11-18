@@ -5,4 +5,4 @@ date: 2020-11-18 00:00:01
 ---
 
 
-[Read the full story<br> ![Asteroids](/pic/Asteroids-Sun-400x100.png "Asteroids Sun")  ](http://rickywilhelmson.com/TheHayabusaEffect/)
+[Read the Short Story<br> ![Asteroids](/pic/Asteroids-Sun-400x100.png "Asteroids Sun")  ](http://rickywilhelmson.com/TheHayabusaEffect/)
