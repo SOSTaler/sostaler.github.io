@@ -24,7 +24,7 @@ The Intelligence Coordinator wanted to reply, but was stopped by the Head of Sta
 „A number fifteen times higher than the average number of twin-births! A magnitude that couldn‘t be explained by just assuming a new kind of fertility treatment had hit the market.“<br><br>
 „Also, if I remember correctly, in that first meeting you pointed out to me the record number of cases of robbery, domestic violence, rural car accidents, sport injuries, sexual intercourse in public and … and ...“<br><br>
 „Petty theft“, said one of the consultants.<br><br>
-„Exactly, right … Petty theft. So you pointed out, that all of these things had gone through the roof over that last six months. Meaning my fellow citizens were going crazy somehow.“<br><br>
+„Exactly, right … petty theft. So you pointed out, that all of these things had gone through the roof over that last six months. Meaning my fellow citizens were going crazy somehow.“<br><br>
 Nobody said a word.<br><br>
 „That‘s what you pointed out. I am correct there, am I not?“<br><br>
 Nobody objected.<br><br>
