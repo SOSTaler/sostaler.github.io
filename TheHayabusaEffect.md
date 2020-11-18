@@ -20,7 +20,7 @@ Smoke from the barbecue kept the flies away. That was the good part. But instead
 „We …“, began the reply of the Intelligence Coordinator, but he didn‘t continue. As the pause got longer, the Head of State stood up, stepped behind his very uncomfortable chair and put both hands on its back, facing the group. He bent slightly forward and started to look at every person in the room, one by one. The he slowly shook his head, went to the back of the room and started pacing up and down.<br><br>
 „This is our fourth meeting. We have been doing this for almost a year now. Just me, you and your“, the Head of State made a half circle motion with his arm, „your troops. And in all this time we haven‘t made any progress at all!“<br><br>
 The Intelligence Coordinator wanted to reply, but was stopped by the Head of State with a gesture. He continued.<br><br>
-„In our first meeting, your analysts had discovered a high number of twin-births over the past six months. A very high number.“ One of the Consultants in the group nooded.<br><br>
+„In our first meeting, your analysts had discovered a high number of twin-births over the past six months. A very high number.“ One of the Consultants in the group nodded.<br><br>
 „A number fifteen times higher than the average number of twin-births! A magnitude that couldn‘t be explained by just assuming a new kind of fertility treatment had hit the market.“<br><br>
 „Also, if I remember correctly, in that first meeting you pointed out to me the record number of cases of robbery, domestic violence, rural car accidents, sport injuries, sexual intercourse in public and … and ...“<br><br>
 „Petty theft“, said one of the consultants.<br><br>
