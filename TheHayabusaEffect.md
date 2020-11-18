@@ -69,7 +69,7 @@ The analyst leaned back, began massaging his neck and rotated his office chair, 
 The Intelligence Coordinator pointed at a small dense cloud of red points in southern Australia. It slowly changed color to green, as it expanded across the entire continent. A town called Coober Pedy lay in its center.<br><br>
 “Only the abnormal reports. Pulled from the databases of Public Health and Police”, replied the analyst.<br><br>
 The Intelligence Coordinator nooded.<br><br>
-“And the center, the epicenter is in Woomera, in Coober Pedy?”<br><br>
+“And the center, the epicenter, is in Woomera, in Coober Pedy?”<br><br>
 The analyst shrugged. “That’s what the data says.”<br><br>
 “Did you look at the detail reports of the police stations or just the weekly summaries?”<br><br>
 “I don’t have the rights to access the details”<br><br>
