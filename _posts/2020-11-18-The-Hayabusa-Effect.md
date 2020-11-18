@@ -4,6 +4,5 @@ title: 'The Hayabusa Effect'
 date: 2020-11-18 00:00:01
 ---
 
-## Short Story
 
-[##READ](http://rickywilhelmson.com/The-Hayabusa-Effect/)
+[ Read the full story ![Asteroids](/pic/Asteroids-Sun-400x100.png "Asteroids Sun")  ](http://rickywilhelmson.com/TheHayabusaEffect/)
