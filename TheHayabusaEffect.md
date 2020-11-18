@@ -5,7 +5,7 @@ date: 2020-11-18 00:10:00
 ---
 
 
-## The Hayabusa Effect
+## (Short Story)
 
 * Author: Ricky Wilhelmson
 
