@@ -5,7 +5,6 @@ title: 'Interesting / Interessant'
 
 ## Interesting
 
-<span id="english">(English)</span>
 * Could a comet from outside the solar system, like Oumuamua, carry (bacterial) life from Earth to another star-system? The answer is yes! This would of course depend on many factors and wouldn't be a very frequent event. But bacterial colonies have been found in altitudes up to 77 km. Candidates for such an "interstellar" export of life from the Earth would be [Bacillus subtilis](https://en.wikipedia.org/wiki/Bacillus_subtilis)([see "The Hayabusa Effect"](/TheHayabusaEffect/)), [Deinococcus radiodurans](https://en.wikipedia.org/wiki/Deinococcus_radiodurans), [Escherichia coli](https://en.wikipedia.org/wiki/Escherichia_coli) and [Paracoccus denitrificans](https://en.wikipedia.org/wiki/Paracoccus_denitrificans). This very interesting [article](https://doi.org/10.1017/S1473550419000314) looks at it in detail. 
 
 <br>
