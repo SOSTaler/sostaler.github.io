@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Über den Autor
+title: About me / Über den Autor
 ---
+## Is there something to say?
 
+I have worked close to twenty years in humanitarian assistance. But am not doing it anymore. That job has taken me to many remote and desolate places. Sometimes it was dangerous. Every country I have worked in was different. But people are people, everywhere. I started writing short stories sometime between 2017 and 2018. In german, the language I grew up with. Finished one novella, also in german, in 2020, but it's not getting much love from the german publishing industry, so I don't know what I am going to do with it. "The Hayabusa Effect", published here on my site, in english as well as in german, is my first english short. I am currently working on a thriller in english, based on that same short story. I am happy to have people contact me on Twitter, for whatever reason. Unless they are trying to sell me something. I won't bite. I promise (has finger crossed behind his back). Cheers.  [twitter.com/rickywilhelmson](https://twitter.com/rickywilhelmson)
 
 ## Gibt es da was?
 
