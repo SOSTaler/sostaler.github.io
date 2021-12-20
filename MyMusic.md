@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Music I made (More tracks on Soundcloud)'
+title: 'Music I made'
 ---
 
 
