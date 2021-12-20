@@ -9,7 +9,7 @@ date: 2021-12-20 00:10:00
 
 * Author: Ricky Wilhelmson
 <br><br>
-![Asteroids](/pic/Asteroids-Sun-400x100.png "Asteroids Sun")
+![Beach](/pic/beach-400x265.png "Beach")
 <br><br>
 
 
