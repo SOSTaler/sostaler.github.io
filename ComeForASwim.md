@@ -5,7 +5,7 @@ date: 2021-12-20 00:10:00
 ---
 
 
-## (Short Story)
+## (Short Story - SF)
 
 * Author: Ricky Wilhelmson
 <br><br>
