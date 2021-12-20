@@ -12,36 +12,36 @@ date: 2021-12-20 00:10:00
 ![Asteroids](/pic/Asteroids-Sun-400x100.png "Asteroids Sun")
 <br><br>
 
+
+
 “Do you really know what you are doing?” Pil asked.
-<br>
+
 “I have done this before, trust me.”
-<br>
+
 “Right … I am not critical or anything, it’s just that engineering told me ...”
-<br>
+
 “There. Done!” said Wal, touched the sensor blisters surface and the metallic iris closed, sealing off the pod. This was the same pod Wal would launch in, toward the surface of the bright blue planet beneath them. 
-<br>
+
 There was still time for the goodbyes to the ships’ authorities, the hierarchy of officers and support staff. He could handle those. But he dreaded to confront his mother’s hidden accusations, even when they were just photons resurrected from info-storage. A non-interactive message, holo-recorded on Sigma Four nearly thirty hibernation cycles ago and stored in ship memory. Images, sounds and scents. Mother had never understood how someone could volunteer for a one-way mission to an unfriendly and remote planetary biosphere. And she never would. But ironically, by staying in the home system and accepting the fate of humans there, she and all the rest of the extended family had done exactly that.
-<br>
+
 “I just had to do a little manual adjustment to the inertial  modulation system” , Wal said.
-<br>
+
 “Manual adjustments?” asked Pil, crouching beside him where she had a better look at the pods interior, now sealed off.
-<br>
+
 “You wouldn’t think that it’s possible, right?” replied Wal.  “It’s not really something you learn from training instructors. And Ship won’t tell you either.”
-<br>
+
 Wal touched the sensor blister again and the iris vibrated twice to confirm that the seal was now active and could not be opened by anyone but him.
-<br>
+
 “But after you have been through two or three training launches and start complaining to the engineers about the pod’s chaotic behavior in the transition phase, they will start to have mercy with you and tell you how it’s done. Maybe.”
-<br>
+
 Pil’s eyes widened.
-<br>
+
 “They don’t tell anybody though. They have to like you. If they don’t, you’ll never know and you will puke your guts out. Every. Single. Time. Happens to everyone if the inertial modulation is left to its default settings.”
-<br>
+
 Wal smiled at Pil and stood up.
-<br>
+
 “But thanks to me, now you will keep your lunch inside, whenever the time comes for you.”
 
-
-<br><br><br><br>
 Pil nodded and stood up too. She would be next to go down to the surface. After Wal. To be more precise, 120 solar cycles after Wal, which she and the majority of the ships inhabitants would spend in hibernation again. The ship itself would be circling peacefully in a stable orbit around the planet’s leading Lagrange point. Only the AI and a small group of hybrids would be awake to watch after the hibernating majority. 
 
 But by that time Wal would be no more. The first multi-person crews that had been sent down more than 2500 solar cycles ago had not left much behind for subsequent robotic search-and-rescue probes to retrieve. 
