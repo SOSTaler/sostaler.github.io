@@ -24,9 +24,9 @@ date: 2021-12-20 00:10:00
 
 There was still time for the goodbyes to the ships’ authorities, the hierarchy of officers and support staff. He could handle those. But he dreaded to confront his mother’s hidden accusations, even when they were just photons resurrected from info-storage. A non-interactive message, holo-recorded on Sigma Four nearly thirty hibernation cycles ago and stored in ship memory. Images, sounds and scents. Mother had never understood how someone could volunteer for a one-way mission to an unfriendly and remote planetary biosphere. And she never would. But ironically, by staying in the home system and accepting the fate of humans there, she and all the rest of the extended family had done exactly that.
 
-“I just had to do a little manual adjustment to the inertial  modulation system” , Wal said.
+“I just had to do a little manual adjustment to the inertial modulation system” , Wal said.
 
-“Manual adjustments?” asked Pil, crouching beside him where she had a better look at the pods interior, now sealed off.
+“Manual adjustments?” asked Pil, crouching beside him where she had a better view of the pod's interior.
 
 “You wouldn’t think that it’s possible, right?” replied Wal.  “It’s not really something you learn from training instructors. And Ship won’t tell you either.”
 
