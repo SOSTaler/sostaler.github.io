@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Hier ist es ja so twitterich ...'
+title: 'Twitter ...'
 ---
 
 
