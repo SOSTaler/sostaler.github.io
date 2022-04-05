@@ -52,8 +52,9 @@ Anomalies in the atmosphere of Venus have been detected by the soviets since the
 We have given a brief overview of the possibilities for finding present and past life on the planets and moons of the solar system. We hope this insight has been as fascinating to you as it has been for us. Upcoming missions exploring Venus, Mars and the icy moons will continue to feed our curiosity.
 
 
-This article is the result of a collaboration between myself, @rickywilhelmson and the multinational team behind @astroverbotjulia. The original idea for it came from them and they reached out to me with a set of questions. I researched the answers and wrote the article published here. Thanks and greetings go to @astroverbotjulia, @stanadmakobo and Anton A. Komarov. The following two websites show what else the team of InterOuts is up to:
+This article is the result of a collaboration between myself, [@rickywilhelmson](https://twitter.com/rickywilhelmson) and the multinational team behind [@astroverbot](https://twitter.com/astroverbot). The original idea for it came from them and they reached out to me with a set of questions. I researched the answers and wrote the article published here. Thanks and greetings go to @astroverbotjulia, @stanadmakobo and Anton A. Komarov. The following two websites show what else the team of InterOuts is up to:
 
 [https://interouts.com/](https://interouts.com/)
+
 [https://openaccessmedia.co.za/](https://openaccessmedia.co.za/)
 
