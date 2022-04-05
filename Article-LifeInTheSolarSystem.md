@@ -7,7 +7,7 @@ date: 2022-04-05 09:00:00
 
 ## Article - Astrobiology
 
-* Author: Ricky Wilhelmson
+* Author: [Ricky Wilhelmson](https://twitter.com/rickywilhelmson/)
 <br><br>
 ![View of Earth from Alien Ocean](/pic/LifeInTheSolarSystem1-400x295.png "Life in the Solar System")
 <br><br>
@@ -51,7 +51,7 @@ Anomalies in the atmosphere of Venus have been detected by the soviets since the
 We have given a brief overview of the possibilities for finding present and past life on the planets and moons of the solar system. We hope this insight has been as fascinating to you as it has been for us. Upcoming missions exploring Venus, Mars and the icy moons will continue to feed our curiosity.
 
 
-This article is the result of a collaboration between myself, [@rickywilhelmson](https://twitter.com/rickywilhelmson) and the multinational team behind [@astroverbot](https://twitter.com/astroverbot). The original idea for it came from them and they reached out to me with a set of questions. I researched the answers and wrote the article published here. Thanks and greetings go to @astroverbotjulia, @stanadmakobo and Anton A. Komarov. The following two websites show what else the team of InterOuts is up to:
+This article is the result of a collaboration between myself, [@rickywilhelmson](https://twitter.com/rickywilhelmson) and the multinational team behind [@astroverbot](https://twitter.com/astroverbot). The original idea for it came from them and they reached out to me with a set of questions. I researched the answers and wrote the article published here. Thanks and greetings go to @astroverbot (Julia), @stanadmakobo and Anton A. Komarov. The following two websites show what else the team of InterOuts is up to:
 
 [https://interouts.com/](https://interouts.com/)
 
