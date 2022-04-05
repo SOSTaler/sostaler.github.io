@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: 'Life in the Solar System'
