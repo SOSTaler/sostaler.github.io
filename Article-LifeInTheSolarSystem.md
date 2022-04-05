@@ -9,7 +9,7 @@ date: 2022-04-05 09:00:00
 
 * Author: Ricky Wilhelmson
 <br><br>
-![View of Earth from Alien Ocean](/pic/beach-400x265.png "Beach")
+![View of Earth from Alien Ocean](/pic/LifeInTheSolarSystem1-400x295.png "Life in the Solar System")
 <br><br>
 
 
