@@ -10,8 +10,6 @@ date: 2022-04-05 09:00:00
 * Author: Ricky Wilhelmson
 <br><br>
 ![View of Earth from Alien Ocean](/pic/beach-400x265.png "Beach")
-<br>
-Image reference: https://wallpapersafari.com/alien-landscape-wallpaper/
 <br><br>
 
 
@@ -59,3 +57,5 @@ This article is the result of a collaboration between myself, [@rickywilhelmson]
 
 [https://openaccessmedia.co.za/](https://openaccessmedia.co.za/)
 
+<br>
+Image reference: https://wallpapersafari.com/alien-landscape-wallpaper/
