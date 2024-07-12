@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Update On WIP'
+title: 'Update on Science Fiction novel'
 date: 2024-07-12 00:00:08
 ---
 
