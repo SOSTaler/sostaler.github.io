@@ -7,24 +7,24 @@ date: 2024-10-11 00:00:08
 
 Long ago, when I was a young adult and later a student at university people had a popular saying:
 
-"I dont' have to know everything, I just have to know how to look it up."
+"I don't have to know everything, I just have to know where to look it up."
 which at that time meant where to find the relevant books in the library.
 
 I and many others liked this, because it justified avoiding tasks that required
-'mindless' memorization. Medicine students would ove to do this but cant afford
+'mindless' memorization. Medicine students would have loved to do this but couldn't afford
 the luxury not to memorize.
 
 Much, much later I realized that in addition to saving time and effort,
 not even trying to memorize something did some other things, over time:
 
-Some information would stick automatically, but the majority would not.
+While some information would stick automatically, the majority would not.
 My memory stayed exactly where it was and never developed, to my great dissatisfaction.
-I was dependent on having access to an encylopedia, a book or a library, for any kind of research.
+I was dependent on having access to an encylopedia, books or a library, for any kind of research.
 
 Libraries were open and free, so nothing to worry about.
 
 
-Then the internet came along (yes I am that old)
+Then the internet came along. (yes I am that old)
 
 Then the ominous 'artificial intelligence' came along
 and again, I hear university student say
@@ -34,9 +34,9 @@ and again, I hear university student say
 Many people like this, because it justifies avoiding tasks that require 'laborious' reading. 
 
 Much much later, these people realized that in addition to saving them time and effort,
-not even trying to read something yourself did some other things, over time:
+not even trying to read something did some other things, over time:
 
-Their reading speed and ability to comprehend a difficult or a bad text and extract only the relevant information
+Their reading speed and ability to comprehend a difficult or a badly written text and extract only the relevant information
 from it never developed, to their great dissatisfaction.
 They were dependent on having access to an AI interface, the internet and the power grid for any kind of research.
 
