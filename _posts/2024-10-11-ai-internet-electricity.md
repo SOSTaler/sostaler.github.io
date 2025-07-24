@@ -27,20 +27,20 @@ Libraries were open and free, so nothing to worry about.
 Then the internet came along. (yes I am that old)
 
 Then the ominous 'artificial intelligence' came along
-and again, I hear university student say
+and again, I hear university students say
 
 "I don't have to read all the papers myself, as long as I have an AI that can read and summarize them for me."
 
 Many people like this, because it justifies avoiding tasks that require 'laborious' reading. 
 
 Much much later, these people realized that in addition to saving them time and effort,
-not even trying to read something did some other things, over time:
+not even trying to read something did other things, over time:
 
 Their reading speed and ability to comprehend a difficult or a badly written text and extract only the relevant information
 from it never developed, to their great dissatisfaction.
 They were dependent on having access to an AI interface, the internet and the power grid for any kind of research.
 
-AI's, the internet and electrical power were all free, so nothing to worry about .... wait what?
+AIs, the internet and electrical power were all free, so nothing to worry about .... wait, what?
 
 <br>
 
