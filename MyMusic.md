@@ -4,16 +4,12 @@ title: 'Music I made'
 ---
 
 
-## Music
+## Some music I recorded
 
 [My tracks on SoundCloud](https://soundcloud.com/rickywilhelmson/tracks)
 
-RnB/Jazz/Ambient
+## RnB/Jazz/Ambient
 
-
-<br><br>
-![Music](/pic/tracks-rw-Screenshot.jpg "Music")
-<br><br>
 
 
 <br><br>
