@@ -11,3 +11,6 @@ title: 'Music I made'
 RnB/Jazz/Ambient
 
 
+<br><br>
+![Asteroids](/pic/Asteroids-Sun-400x100.png "Asteroids Sun")
+<br><br>
